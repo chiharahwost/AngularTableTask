@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table</title>
+    <link rel="stylesheet" href="css/test.css">
+
+</head>
+<body ng-app="testApp">
+<div class="wrapper" ng-controller="ItemController">
+    <div class="table">
+        <div class="table-row header">
+            <div class="wrapper ">
+                <div class="column ">Number</div>
+                <div class="column second">Created At</div>
+            </div>
+            <div class="wrapper ">
+                <div class="column ">First Name</div>
+                <div class="column second">Customer Id</div>
+            </div>
+            <div class="wrapper email">
+                <div class="column ">Email</div>
+                <div class="column second">Phone</div>
+            </div>
+            <div class="wrapper total">
+                <div class="column ">Status</div>
+                <div class="column price">Total Summ</div>
+            </div>
+            <div class="wrapper ">
+                <div class="column ">Manager Comment</div>
+                <div class="column second">Contragent Type</div>
+            </div>
+            <div class="wrapper ">
+                <div class="column ">Custom Fields</div>
+                <div class="column second">City</div>
+            </div>
+            <div class="wrapper items">
+                <div class="column ">Items</div>
+            </div>
+        </div>
+        <div class="table-row" ng-repeat="item in items | startFrom:currentPage*pageSize | limitTo:pageSize">
+            <div class="wrapper ">
+                <cell value="item.number"></cell>
+                <cell class="second" value="item.createdAt"></cell>
+            </div>
+            <div class="wrapper ">
+                <cell value="item.firstName"></cell>
+                <cell class="second" value="item.customer.id"></cell>
+            </div>
+            <div class="wrapper email">
+                <cell value="item.customer.email"></cell>
+                <cell class="second" value="item.phone"></cell>
+            </div>
+            <div class="wrapper total">
+                <cell value="item.status"></cell>
+                <cell class="price" value="item.totalSumm"></cell>
+            </div>
+            <div class="wrapper">
+                <cell value="item.managerComment"></cell>
+                <cell class="second" value="item.contragent.contragentType"></cell>
+            </div>
+            <div class="wrapper ">
+                <div>
+                    <cell ng-repeat="val in item.customFields" value="val"></cell>
+                </div>
+                <cell class="second" value="item.customer.address.city"></cell>
+            </div>
+            <div class="wrapper items">
+                <div>
+                    <ol>
+                        <li ng-repeat="order in item.items">
+                            <cell value="order.offer.name"></cell>
+                            <cell value="order.offer.xmlId"></cell>
+                            <cell class="price" value="order.purchasePrice"></cell>
+                        </li>
+                    </ol>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="pagination">
+        <button type="button" class="" ng-disabled="currentPage == 0" ng-click="currentPage=currentPage-1">Предыдущая
+        </button>
+        <a href="" ng-click="$parent.currentPage=p" ng-repeat="p in pageArray" ng-show="pageSize>1"
+           class="page" ng-class="{'active':p == $parent.currentPage}">{{p+1}}</a>
+        <button type="button" class="" ng-disabled="currentPage >= items.length/pageSize - 1"
+                ng-click="currentPage=currentPage+1">Следующая
+        </button>
+    </div>
+    <div class="pagination">
+        <button type="button" ng-click="getEdited()" class="large">Отредактированные</button>
+        <div ng-if="editBoolean" class="result">{{edited}}</div>
+    </div>
+</div>
+<script src="node_modules/angular/angular.min.js"></script>
+<script src="app/app.js"></script>
+<script src="app/services.js"></script>
+<script src="app/controllers.js"></script>
+</body>
+</html>

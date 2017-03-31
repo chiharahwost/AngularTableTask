@@ -1,0 +1,144 @@
+@import "normalize";
+
+@wrapWidth: 14%;
+@wrapSmall: 12%;
+@colorSecond: #374390;
+@colorBack: aliceblue;
+
+.button-like() {
+  background-color: @colorBack;
+  padding: 0.5em;
+  border: 0.1em solid @colorSecond;
+  border-radius: 5%;
+  color: @colorSecond;
+  cursor: pointer;
+}
+
+.table {
+  width: 100%;
+  margin-top: 1em;
+  .table-row {
+    display: flex;
+    display: -webkit-flex;
+    -webkit-flex-flow: row nowrap; /* Safari */
+    flex-flow: row nowrap;
+    width: 100%;
+    border: 0.1em solid @colorSecond;
+    border-top: none;
+    box-sizing: border-box;
+    &:first-of-type {
+      border-top: 0.1em solid @colorSecond;
+    }
+  }
+  .wrapper {
+    display: flex;
+    display: -webkit-flex;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+    -webkit-justify-content: space-around; /* Safari */
+    justify-content: space-around;
+    width: @wrapWidth;
+    border-right: 0.1em solid @colorSecond;
+    &:last-of-type {
+      border-right: 0;
+    }
+  }
+  .column {
+    flex-grow: 0;
+    -webkit-flex-grow: 0;
+    flex-shrink: 0;
+    -webkit-flex-shrink: 0;
+    vertical-align: top;
+    display: block;
+    width: 100%;
+    padding: 0.3em 0;
+    box-sizing: border-box;
+    text-align: center;
+    input {
+      display: none;
+
+    }
+    &.active {
+      > input {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      span {
+        display: none;
+      }
+    }
+  }
+
+  .header {
+    background-color: @colorBack;
+  }
+
+  .items {
+    width: 100%-@wrapWidth*6;
+  }
+  .second {
+    color: @colorSecond;
+  }
+  .price {
+    color: #a2101f;
+  }
+  .email {
+    width: 100%-@wrapWidth*6;
+    word-break: break-all;
+  }
+  .total {
+    width: @wrapSmall;
+  }
+  ul {
+    list-style: none;
+    //padding: 0;
+  }
+  ol {
+    padding-left: 1.5em;
+  }
+  li {
+    text-align: left;
+    .column {
+      text-align: left
+    }
+  }
+}
+
+.pagination {
+  text-align: center;
+  margin: 1em 0;
+
+  .page {
+    .button-like();
+    margin: 0 0.2em;
+    text-decoration: none;
+    color: @colorSecond;
+    &.active {
+      color: @colorBack;
+      background-color: @colorSecond;
+    }
+  }
+  .result {
+    padding: 1em 2em;
+    word-break: break-all;
+  }
+}
+
+button {
+  .button-like();
+  min-width: 20%;
+
+  &[disabled] {
+    pointer-events: none;
+    cursor: not-allowed;
+    filter: alpha(opacity=65);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    opacity: .45;
+
+  }
+  .large{
+    min-width: 40%;
+  }
+}

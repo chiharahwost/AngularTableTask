@@ -1,0 +1,841 @@
+[
+  {
+    "slug": 534226,
+    "id": 534226,
+    "number": "239078",
+    "externalId": "239078",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "countryIso": "RU",
+    "createdAt": "2016-11-19 05:18:46",
+    "statusUpdatedAt": "2016-11-19 05:18:43",
+    "summ": 890,
+    "totalSumm": 890,
+    "prepaySum": 0,
+    "purchaseSumm": 502,
+    "discount": 0,
+    "discountPercent": 0,
+    "markDatetime": "2016-11-19 05:18:43",
+    "lastName": "",
+    "firstName": "\u0418\u0440\u0438\u043d\u0430",
+    "patronymic": "",
+    "phone": "89465481321",
+    "email": "aaaaaaaaaaa@inbox.ru",
+    "call": false,
+    "expired": true,
+    "customerComment": "693010 C\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b.\r\n\u0433.\u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a \u0443\u043b.\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f 1 \u043a\u0432 49",
+    "managerComment": "\u041e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 \u0437\u0430\u043a\u0430\u0437\u0430 \u0438\u0437 \u043a\u043e\u0440\u0437\u0438\u043d\u044b \u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430: ",
+    "managerId": 46,
+    "customer": {
+      "id": 253388,
+      "externalId": "e9537652-0e1e-4740-8731-60b3773f0f0b",
+      "firstName": "\u0418\u0440\u0438\u043d\u0430",
+      "lastName": "",
+      "patronymic": "",
+      "email": "aaaaaaaaaaa@inbox.ru",
+      "phones": [
+        {
+          "number": "89111111111"
+        },
+        {
+          "number": "89111111112"
+        }
+      ],
+      "address": {
+        "index": "",
+        "region": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "city": "\u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a",
+        "notes": "",
+        "text": ""
+      },
+      "createdAt": "2016-11-19 05:18:46",
+      "managerId": 46,
+      "vip": false,
+      "bad": false,
+      "site": "new-agmashop-ru",
+      "source": {
+        "source": "direct",
+        "medium": "cpc",
+        "campaign": "podarki-regiony-set-11345413",
+        "keyword": "\u043b\u0435\u0442\u0430\u044e\u0449\u0438\u0439 \u043c\u0438\u043d\u044c\u043e\u043d"
+      },
+      "contragent": {
+        "contragentType": "individual"
+      },
+      "personalDiscount": 0,
+      "marginSumm": 913,
+      "totalSumm": 1780,
+      "averageSumm": 890,
+      "ordersCount": 2,
+      "customFields": []
+    },
+    "contragent": {
+      "contragentType": "individual"
+    },
+    "delivery": {
+      "cost": 0,
+      "netCost": 0,
+      "address": []
+    },
+    "paymentType": "adv-0",
+    "paymentStatus": "not-paid",
+    "site": "new-agmashop-ru",
+    "status": "new",
+    "source": {
+      "source": "direct",
+      "medium": "cpc",
+      "campaign": "podarki-regiony-set-11345413",
+      "keyword": "\u043b\u0435\u0442\u0430\u044e\u0449\u0438\u0439 \u043c\u0438\u043d\u044c\u043e\u043d"
+    },
+    "items": [
+      {
+        "id": 920836,
+        "initialPrice": 890,
+        "discount": 0,
+        "discountPercent": 0,
+        "createdAt": "2016-11-19 05:18:46",
+        "quantity": 1,
+        "status": "new",
+        "offer": {
+          "id": 21471,
+          "externalId": "13262904",
+          "xmlId": "13262904",
+          "name": "\u0418\u0433\u0440\u0443\u0448\u043a\u0430 \u041b\u0435\u0442\u0430\u044e\u0449\u0438\u0439 \u041c\u0438\u043d\u044c\u043e\u043d"
+        },
+        "properties": {
+          "weight": {
+            "name": "weight",
+            "value": "0,18",
+            "code": "weight"
+          }
+        },
+        "purchasePrice": 502
+      }
+    ],
+    "fromApi": true,
+    "shipmentStore": "freshlogic",
+    "shipped": false,
+    "customFields": {
+      "sss": "7",
+      "qwer": "1",
+      "roistat": "683016"
+    },
+    "uploadedToExternalStoreSystem": false
+  },
+  {
+    "slug": 534225,
+    "id": 534225,
+    "number": "239077",
+    "externalId": "239077",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "countryIso": "RU",
+    "createdAt": "2016-11-19 05:13:34",
+    "statusUpdatedAt": "2016-11-30 04:17:03",
+    "summ": 890,
+    "totalSumm": 1517,
+    "prepaySum": 1517,
+    "purchaseSumm": 502,
+    "discount": 0,
+    "discountPercent": 0,
+    "markDatetime": "2016-11-19 05:13:32",
+    "firstName": "\u042d\u0434\u0443\u0430\u0440\u0434",
+    "phone": "79874621897",
+    "email": "",
+    "call": false,
+    "expired": false,
+    "managerComment": "\u041e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 \u0437\u0430\u043a\u0430\u0437\u0430 \u0438\u0437 \u043a\u043e\u0440\u0437\u0438\u043d\u044b \u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430:",
+    "managerId": 46,
+    "customer": {
+      "id": 253388,
+      "externalId": "e9537652-0e1e-4740-8731-60b3773f0f0b",
+      "firstName": "\u0418\u0440\u0438\u043d\u0430",
+      "lastName": "",
+      "patronymic": "",
+      "email": "aaaaaaaaaaa@inbox.ru",
+      "phones": [
+        {
+          "number": "89222222221"
+        },
+        {
+          "number": "89222222222"
+        }
+      ],
+      "address": {
+        "index": "",
+        "countryIso": "RU",
+        "region": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "regionId": 82,
+        "city": "\u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a",
+        "cityId": 4741,
+        "cityType": "\u0433.",
+        "notes": "",
+        "text": ""
+      },
+      "createdAt": "2016-11-19 05:18:46",
+      "managerId": 46,
+      "vip": false,
+      "bad": false,
+      "site": "new-agmashop-ru",
+      "source": {
+        "source": "direct",
+        "medium": "cpc",
+        "campaign": "podarki-regiony-set-11345413",
+        "keyword": "\u043b\u0435\u0442\u0430\u044e\u0449\u0438\u0439 \u043c\u0438\u043d\u044c\u043e\u043d"
+      },
+      "contragent": {
+        "contragentType": "individual"
+      },
+      "personalDiscount": 0,
+      "marginSumm": 463,
+      "totalSumm": 1517,
+      "averageSumm": 1517,
+      "ordersCount": 1,
+      "customFields": []
+    },
+    "contragent": {
+      "contragentType": "individual"
+    },
+    "delivery": {
+      "code": "helpim",
+      "integrationCode": "generic.helpim",
+      "data": {
+        "trackNumber": "20376",
+        "status": "dc-delivered",
+        "pickuppointAddress": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b, \u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a, \u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a, \u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a \u0433, \u041b\u0435\u043d\u0438\u043d\u0430 \u0443\u043b, \u0434.154, \u043e\u0444. 108, 693000",
+        "payerType": "sender",
+        "days": "9",
+        "statusText": "\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430: \u0434\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d",
+        "tariff": "box",
+        "tariffName": "Boxberry",
+        "pickuppointId": "box-65041",
+        "cost": 552,
+        "extraData": {
+          "tariffType": "selfDelivery"
+        }
+      },
+      "cost": 627,
+      "netCost": 552,
+      "address": {
+        "countryIso": "RU",
+        "region": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "regionId": 82,
+        "city": "\u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a",
+        "cityId": 4741,
+        "cityType": "\u0433."
+      }
+    },
+    "paymentType": "cash",
+    "paymentStatus": "paid",
+    "site": "new-agmashop-ru",
+    "status": "dc-delivered",
+    "statusComment": "\u0412\u044b\u0434\u0430\u043d\u043e. \u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a (693000, \u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a \u0433, \u041b\u0435\u043d\u0438\u043d\u0430 \u0443\u043b, \u0434.154, \u043e\u0444. 108)",
+    "source": {
+      "source": "direct",
+      "medium": "cpc",
+      "campaign": "podarki-regiony-set-11345413",
+      "keyword": "\u043b\u0435\u0442\u0430\u044e\u0449\u0438\u0439 \u043c\u0438\u043d\u044c\u043e\u043d"
+    },
+    "items": [
+      {
+        "id": 920904,
+        "initialPrice": 890,
+        "discount": 0,
+        "discountPercent": 0,
+        "createdAt": "2016-11-19 13:12:17",
+        "quantity": 1,
+        "status": "completed",
+        "offer": {
+          "id": 21471,
+          "externalId": "13262904",
+          "xmlId": "13262904",
+          "name": "\u0418\u0433\u0440\u0443\u0448\u043a\u0430 \u041b\u0435\u0442\u0430\u044e\u0449\u0438\u0439 \u041c\u0438\u043d\u044c\u043e\u043d"
+        },
+        "properties": [],
+        "purchasePrice": 502
+      },
+      {
+        "id": 921179,
+        "initialPrice": 0,
+        "discount": 0,
+        "discountPercent": 0,
+        "createdAt": "2016-11-20 12:14:18",
+        "quantity": 1,
+        "status": "completed",
+        "offer": {
+          "id": 44054,
+          "externalId": "2462537",
+          "xmlId": "2462537",
+          "name": "\u041d\u0430\u0434\u0435\u0436\u043d\u0430\u044f \u0443\u043f\u0430\u043a\u043e\u0432\u043a\u0430"
+        },
+        "properties": [],
+        "purchasePrice": 0
+      }
+    ],
+    "fromApi": true,
+    "shipmentStore": "freshlogic",
+    "shipmentDate": "2016-11-20",
+    "shipped": false,
+    "customFields": {
+      "sss": "7",
+      "qwer": "2",
+      "roistat": "683016",
+      "additionally": 0
+    },
+    "uploadedToExternalStoreSystem": false
+  },
+  {
+    "slug": 534228,
+    "id": 534228,
+    "number": "239080",
+    "externalId": "239080",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "countryIso": "RU",
+    "createdAt": "2016-11-19 07:12:43",
+    "statusUpdatedAt": "2016-12-21 12:22:50",
+    "summ": 0,
+    "totalSumm": 260,
+    "prepaySum": 0,
+    "purchaseSumm": 0,
+    "discount": 0,
+    "discountPercent": 0,
+    "markDatetime": "2016-11-19 07:12:40",
+    "firstName": "\u041e\u043b\u044c\u0433\u0430",
+    "phone": "79951595159",
+    "email": "bbbbbbbbbbbbbbb@mail.ru",
+    "call": false,
+    "expired": false,
+    "customerComment": "30.11 \u0441\u0431\u0440\u043e\u0441 \u0437\u0432\u043e\u043d\u043a\u0430 13.21, \u043f\u0438\u0441\u044c\u043c\u043e\r\n\u0420\u0411 \u0433. \u0423\u0444\u0430 \u0443\u043b. \u0412. \u041b\u0435\u0441\u0443\u043d\u043e\u0432\u0430 \u0434. 10\/1 \u043a\u0432. 1",
+    "managerComment": "\u0430\u043a\u0442 \u211600000343395 \u043e\u0442 14.12.16\r\n\r\n+1 \u0414\u041e\u041f\u0420. \u043f. 2 \u0432\u043c\u0435\u0441\u0442\u043e 600 \u0434\u0435\u0442 (\u043d\u0435\u0442 \u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438)\r\n19.11 \u0437\u0430\u043d\u044f\u0442\u043e 12.55",
+    "managerId": 42,
+    "customer": {
+      "id": 253390,
+      "externalId": "ab567b94-ee43-432a-a09b-0ec54569c037",
+      "firstName": "\u041e\u043b\u044c\u0433\u0430",
+      "email": "bbbbbbbbbbbbbbb@mail.ru",
+      "phones": [
+        {
+          "number": "79333333331"
+        }
+      ],
+      "address": {
+        "countryIso": "RU",
+        "region": "\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+        "regionId": 52,
+        "city": "\u0423\u0444\u0430",
+        "cityId": 3,
+        "cityType": "\u0433."
+      },
+      "createdAt": "2016-11-19 07:12:43",
+      "managerId": 42,
+      "vip": false,
+      "bad": false,
+      "site": "new-agmashop-ru",
+      "contragent": {
+        "contragentType": "individual"
+      },
+      "personalDiscount": 0,
+      "marginSumm": 78,
+      "totalSumm": 260,
+      "averageSumm": 260,
+      "ordersCount": 1,
+      "customFields": []
+    },
+    "contragent": {
+      "contragentType": "individual"
+    },
+    "delivery": {
+      "code": "helpim",
+      "integrationCode": "generic.helpim",
+      "data": {
+        "externalId": "20378",
+        "trackNumber": "20378",
+        "status": "dc-return",
+        "pickuppointAddress": "\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f, \u0423\u0444\u0430, \u0423\u0444\u0430, \u0423\u0444\u0430 \u0433, \u0422\u0443\u0445\u0432\u0430\u0442\u0430 \u042f\u043d\u0430\u0431\u0438 \u0431-\u0440, \u0434.22, 450000",
+        "payerType": "sender",
+        "days": "3",
+        "statusText": "\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430: \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d \u043d\u0430 \u0441\u043a\u043b\u0430\u0434",
+        "tariff": "box",
+        "tariffName": "Boxberry",
+        "pickuppointId": "box-02251",
+        "cost": 182,
+        "extraData": {
+          "tariffType": "selfDelivery"
+        }
+      },
+      "cost": 260,
+      "netCost": 182,
+      "address": {
+        "countryIso": "RU",
+        "region": "\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+        "regionId": 52,
+        "city": "\u0423\u0444\u0430",
+        "cityId": 3,
+        "cityType": "\u0433."
+      }
+    },
+    "paymentType": "cash",
+    "paymentStatus": "not-paid",
+    "site": "new-agmashop-ru",
+    "status": "vozvrat",
+    "statusComment": "",
+    "items": [
+      {
+        "id": 920838,
+        "initialPrice": 1390,
+        "discount": 0,
+        "discountPercent": 0,
+        "createdAt": "2016-11-19 07:12:43",
+        "quantity": 1,
+        "status": "returned",
+        "offer": {
+          "id": 64730,
+          "externalId": "1326001011204",
+          "xmlId": "1326001011204",
+          "name": "\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u043b\u0438\u043f\u0443\u0447\u043a\u0430 Bunchems (\u0411\u0430\u043d\u0447\u0435\u043c\u0441)"
+        },
+        "isCanceled": true,
+        "properties": {
+          "weight": {
+            "name": "weight",
+            "value": "0,45",
+            "code": "weight"
+          }
+        },
+        "purchasePrice": 680
+      },
+      {
+        "id": 921014,
+        "initialPrice": 890,
+        "discount": 0,
+        "discountPercent": 0,
+        "createdAt": "2016-11-19 19:10:15",
+        "quantity": 1,
+        "status": "returned",
+        "offer": {
+          "id": 45344,
+          "externalId": "1326001011200",
+          "xmlId": "1326001011200",
+          "name": "\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u043b\u0438\u043f\u0443\u0447\u043a\u0430 Bunchems (\u0411\u0430\u043d\u0447\u0435\u043c\u0441)"
+        },
+        "isCanceled": true,
+        "properties": [],
+        "purchasePrice": 370
+      }
+    ],
+    "fromApi": true,
+    "shipmentStore": "freshlogic",
+    "shipmentDate": "2016-11-20",
+    "shipped": false,
+    "customFields": {
+      "sss": "7",
+      "qwer": "2",
+      "roistat": "683155",
+      "additionally": 1
+    },
+    "uploadedToExternalStoreSystem": false
+  },
+  {
+    "slug": 534227,
+    "id": 534227,
+    "number": "239079",
+    "externalId": "239079",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "countryIso": "RU",
+    "createdAt": "2016-11-19 07:11:55",
+    "statusUpdatedAt": "2016-11-20 13:26:41",
+    "summ": 2420,
+    "totalSumm": 2420,
+    "prepaySum": 0,
+    "purchaseSumm": 1360,
+    "discount": 0,
+    "discountPercent": 0,
+    "markDatetime": "2016-11-19 07:11:52",
+    "firstName": "\u041a\u043e\u043b\u044f",
+    "phone": "79787845454",
+    "email": "",
+    "call": false,
+    "expired": false,
+    "managerComment": "12-51 \u043d\u0435\u0434\u043e\u0441\u0442 15-20",
+    "managerId": 52,
+    "customer": {
+      "id": 253389,
+      "externalId": "8cb9821a-336d-41d0-8505-89a63f1864a0",
+      "firstName": "\u041a\u043e\u043b\u044f",
+      "lastName": "",
+      "patronymic": "",
+      "email": "",
+      "phones": [
+        {
+          "number": "89444444444"
+        }
+      ],
+      "address": {
+        "index": "",
+        "region": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
+        "city": "\u042e\u0436\u043d\u043e-\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a",
+        "notes": "",
+        "text": ""
+      },
+      "createdAt": "2016-11-19 07:11:55",
+      "vip": false,
+      "bad": false,
+      "site": "new-agmashop-ru",
+      "source": {
+        "source": "vk.com",
+        "medium": "referral",
+        "campaign": "(not set)",
+        "keyword": "(not set)"
+      },
+      "contragent": {
+        "contragentType": "individual"
+      },
+      "personalDiscount": 0,
+      "marginSumm": 1060,
+      "totalSumm": 2420,
+      "averageSumm": 2420,
+      "ordersCount": 1,
+      "customFields": []
+    },
+    "contragent": {
+      "contragentType": "individual"
+    },
+    "delivery": {
+      "cost": 0,
+      "netCost": 0,
+      "address": {
+        "countryIso": "RU"
+      }
+    },
+    "paymentStatus": "not-paid",
+    "site": "new-agmashop-ru",
+    "status": "mind-change",
+    "statusComment": "\u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u043d\u0438\u0447\u0435\u0433\u043e , \u043f\u0435\u0440\u0435\u0434\u0443\u043c\u0430\u043b\u0438",
+    "source": {
+      "source": "vk.com",
+      "medium": "referral",
+      "campaign": "(not set)",
+      "keyword": "(not set)"
+    },
+    "items": [
+      {
+        "id": 920837,
+        "initialPrice": 1210,
+        "discount": 0,
+        "discountPercent": 0,
+        "createdAt": "2016-11-19 07:11:55",
+        "quantity": 2,
+        "status": "new",
+        "offer": {
+          "id": 21683,
+          "externalId": "13260009",
+          "xmlId": "13260009",
+          "name": "\u0421\u043a\u043e\u0432\u043e\u0440\u043e\u0434\u0430 \"\u0427\u0443\u0434\u043e \u0413\u0440\u0438\u043b\u044c-\u0413\u0430\u0437\" (\u042d\u043c\u0430\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0435  \u041f\u043e\u043a\u0440\u044b\u0442\u0438\u0435)"
+        },
+        "properties": {
+          "weight": {
+            "name": "weight",
+            "value": "1,7",
+            "code": "weight"
+          }
+        },
+        "purchasePrice": 680
+      }
+    ],
+    "fromApi": true,
+    "shipmentStore": "freshlogic",
+    "shipped": false,
+    "customFields": {
+      "sss": "7",
+      "qwer": "1",
+      "roistat": "683168",
+      "additionally": 0
+    },
+    "uploadedToExternalStoreSystem": false
+  },
+  {
+    "slug": 534230,
+    "id": 534230,
+    "number": "239082",
+    "externalId": "239082",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "countryIso": "RU",
+    "createdAt": "2016-11-19 07:21:32",
+    "statusUpdatedAt": "2016-11-21 17:34:16",
+    "summ": 1420,
+    "totalSumm": 1420,
+    "prepaySum": 0,
+    "purchaseSumm": 876,
+    "discount": 0,
+    "discountPercent": 0,
+    "markDatetime": "2016-11-19 07:21:30",
+    "firstName": "\u0415\u0432\u0433\u0435\u043d\u0438\u044f",
+    "phone": "79878787878",
+    "email": "",
+    "call": false,
+    "expired": false,
+    "managerComment": "21.11 \u043d\u0435 \u043e\u0442\u0432. 10.39, \u043d\u0435 \u043e\u0442\u0432. 17.34\r\n20.11 \u043d\u0435 \u043e\u0442\u0432.13.25, \u043d\u0435 \u043e\u0442\u0432. 17.51\r\n19.11 \u043d\u0435 \u0434\u043e\u0441\u0442. 12.57, \u044d\u043b.\u043f\u043e\u0447\u0442\u044b \u043d\u0435\u0442, \u043d\u0435 \u0434\u043e\u0441\u0442. 13.53, \u043d\u0435 \u043e\u0442\u0432.14.32\r\n\u041e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 \u0437\u0430\u043a\u0430\u0437\u0430 \u0438\u0437 \u043a\u043e\u0440\u0437\u0438\u043d\u044b \u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430:",
+    "managerId": 42,
+    "customer": {
+      "id": 253392,
+      "externalId": "d20605b2-2651-4cfd-8cbf-d42f579aade2",
+      "firstName": "\u0415\u0432\u0433\u0435\u043d\u0438\u044f",
+      "email": "",
+      "phones": [
+        {
+          "number": "79555555555"
+        }
+      ],
+      "address": {
+        "countryIso": "RU",
+        "region": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "city": "\u041c\u043e\u0441\u043a\u0432\u0430"
+      },
+      "createdAt": "2016-11-19 07:21:32",
+      "managerId": 42,
+      "vip": false,
+      "bad": false,
+      "site": "new-agmashop-ru",
+      "source": {
+        "source": "direct",
+        "medium": "cpc",
+        "campaign": "krasota-i-zdorove-regiony-set-9880864",
+        "keyword": "\u043c\u0430\u0433\u043d\u0438\u0442\u043d\u044b\u0439 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043e\u0440 \u043e\u0441\u0430\u043d\u043a\u0438"
+      },
+      "contragent": {
+        "contragentType": "individual"
+      },
+      "personalDiscount": 0,
+      "marginSumm": 544,
+      "totalSumm": 1420,
+      "averageSumm": 1420,
+      "ordersCount": 1,
+      "customFields": []
+    },
+    "contragent": {
+      "contragentType": "individual"
+    },
+    "delivery": {
+      "cost": 0,
+      "netCost": 0,
+      "address": {
+        "countryIso": "RU"
+      }
+    },
+    "paymentType": "adv-0",
+    "paymentStatus": "not-paid",
+    "site": "new-agmashop-ru",
+    "status": "no-call",
+    "statusComment": "",
+    "source": {
+      "source": "direct",
+      "medium": "cpc",
+      "campaign": "krasota-i-zdorove-regiony-set-9880864",
+      "keyword": "\u043c\u0430\u0433\u043d\u0438\u0442\u043d\u044b\u0439 \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u043e\u0440 \u043e\u0441\u0430\u043d\u043a\u0438"
+    },
+    "items": [
+      {
+        "id": 920841,
+        "initialPrice": 710,
+        "discount": 0,
+        "discountPercent": 0,
+        "createdAt": "2016-11-19 07:21:32",
+        "quantity": 2,
+        "status": "new",
+        "offer": {
+          "id": 21447,
+          "externalId": "13261545",
+          "xmlId": "13261545",
+          "name": "\u041a\u043e\u0440\u0440\u0435\u043a\u0442\u043e\u0440 \u043e\u0441\u0430\u043d\u043a\u0438 \u043c\u0430\u0433\u043d\u0438\u0442\u043d\u044b\u0439 \"\u041b\u0438\u043d\u0438\u044f\" \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u0443\u0435\u043c\u044b\u0439"
+        },
+        "properties": {
+          "weight": {
+            "name": "weight",
+            "value": "0,345",
+            "code": "weight"
+          }
+        },
+        "purchasePrice": 438
+      }
+    ],
+    "fromApi": true,
+    "shipmentStore": "freshlogic",
+    "shipped": false,
+    "customFields": {
+      "sss": "7",
+      "qwer": "1",
+      "roistat": "683190",
+      "additionally": 0
+    },
+    "uploadedToExternalStoreSystem": false
+  },
+  {
+    "slug": 534229,
+    "id": 534229,
+    "number": "239081",
+    "externalId": "239081",
+    "orderType": "eshop-individual",
+    "orderMethod": "shopping-cart",
+    "countryIso": "RU",
+    "createdAt": "2016-11-19 07:13:04",
+    "statusUpdatedAt": "2016-12-05 07:55:04",
+    "summ": 1720,
+    "totalSumm": 2135,
+    "prepaySum": 0,
+    "purchaseSumm": 745,
+    "discount": 0,
+    "discountPercent": 0,
+    "markDatetime": "2016-11-19 07:13:01",
+    "firstName": "\u0410\u043b\u0438\u043d\u0430",
+    "phone": "79545454545",
+    "email": "ccccccc@mail.ru",
+    "call": false,
+    "expired": false,
+    "customerComment": "\u0433. \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a \u043a\u0432\u0430\u0440\u0442\u0430\u043b \u0411\u043e\u043b\u044c\u0448\u043e\u0439 \u0410\u044d\u0440\u043e\u0434\u0440\u043e\u043c \u0434\u043e\u0441 34 \u043a\u0432 3",
+    "managerComment": "12-52",
+    "managerId": 52,
+    "customer": {
+      "id": 253391,
+      "externalId": "686a9f90-6670-44ac-b871-41a389812212",
+      "firstName": "\u0430\u043b\u0438\u043d\u0430",
+      "lastName": "",
+      "patronymic": "",
+      "email": "ddddddd@mail.ru",
+      "phones": [
+        {
+          "number": "9666666666"
+        }
+      ],
+      "address": {
+        "index": "",
+        "countryIso": "RU",
+        "region": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439",
+        "regionId": 68,
+        "city": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a",
+        "cityId": 2318,
+        "cityType": "\u0433.",
+        "notes": "",
+        "text": ""
+      },
+      "createdAt": "2016-11-19 07:13:04",
+      "managerId": 52,
+      "vip": false,
+      "bad": false,
+      "site": "new-agmashop-ru",
+      "source": {
+        "source": "google",
+        "medium": "cpc",
+        "campaign": "\u041a\u0443\u0445\u043d\u0438_\u0440\u0435\u0433\u0438\u043e\u043d\u044b_\u043f\u043e\u0438\u0441\u043a",
+        "keyword": "\u0431\u0430\u043d\u0447\u0435\u043c\u0441"
+      },
+      "contragent": {
+        "contragentType": "individual"
+      },
+      "personalDiscount": 0,
+      "marginSumm": 1048,
+      "totalSumm": 2135,
+      "averageSumm": 2135,
+      "ordersCount": 1,
+      "customFields": []
+    },
+    "contragent": {
+      "contragentType": "individual"
+    },
+    "delivery": {
+      "code": "helpim",
+      "integrationCode": "generic.helpim",
+      "data": {
+        "trackNumber": "20381",
+        "status": "dc-delivered",
+        "pickuppointAddress": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a, \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a, \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a \u0433, \u041b\u0435\u0440\u043c\u043e\u043d\u0442\u043e\u0432\u0430 \u0443\u043b, \u0434.22, 680013",
+        "payerType": "sender",
+        "days": "7",
+        "statusText": "\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430: \u0434\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d",
+        "tariff": "box",
+        "tariffName": "Boxberry",
+        "pickuppointId": "box-27111",
+        "cost": 342,
+        "extraData": {
+          "tariffType": "selfDelivery"
+        }
+      },
+      "cost": 415,
+      "netCost": 342,
+      "address": {
+        "countryIso": "RU",
+        "region": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u041a\u0440\u0430\u0439",
+        "regionId": 68,
+        "city": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a",
+        "cityId": 2318,
+        "cityType": "\u0433."
+      }
+    },
+    "paymentType": "cash",
+    "paymentStatus": "not-paid",
+    "site": "new-agmashop-ru",
+    "status": "dc-delivered",
+    "statusComment": "\u0412\u044b\u0434\u0430\u043d\u043e. \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a (680013, \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a \u0433, \u041b\u0435\u0440\u043c\u043e\u043d\u0442\u043e\u0432\u0430 \u0443\u043b, \u0434.22)",
+    "source": {
+      "source": "google",
+      "medium": "cpc",
+      "campaign": "\u041a\u0443\u0445\u043d\u0438_\u0440\u0435\u0433\u0438\u043e\u043d\u044b_\u043f\u043e\u0438\u0441\u043a",
+      "keyword": "\u0431\u0430\u043d\u0447\u0435\u043c\u0441"
+    },
+    "items": [
+      {
+        "id": 920840,
+        "initialPrice": 1390,
+        "discount": 0,
+        "discountPercent": 0,
+        "createdAt": "2016-11-19 07:13:04",
+        "quantity": 1,
+        "status": "completed",
+        "offer": {
+          "id": 64730,
+          "externalId": "1326001011204",
+          "xmlId": "1326001011204",
+          "name": "\u041a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u043b\u0438\u043f\u0443\u0447\u043a\u0430 Bunchems (\u0411\u0430\u043d\u0447\u0435\u043c\u0441)"
+        },
+        "properties": {
+          "weight": {
+            "name": "weight",
+            "value": "0,45",
+            "code": "weight"
+          }
+        },
+        "purchasePrice": 680
+      },
+      {
+        "id": 920901,
+        "initialPrice": 330,
+        "discount": 0,
+        "discountPercent": 0,
+        "createdAt": "2016-11-19 12:55:09",
+        "quantity": 1,
+        "status": "completed",
+        "offer": {
+          "id": 21411,
+          "externalId": "13260081",
+          "xmlId": "13260081",
+          "name": "\u042d\u043a\u0441\u0442\u0440\u0430-\u043f\u0440\u043e\u0447\u043d\u044b\u0435 \u043d\u0435\u043c\u044b\u043b\u044c\u043d\u044b\u0435 \u043f\u0443\u0437\u044b\u0440\u0438"
+        },
+        "properties": [],
+        "purchasePrice": 65
+      }
+    ],
+    "fromApi": true,
+    "shipmentStore": "freshlogic",
+    "shipmentDate": "2016-11-21",
+    "shipped": false,
+    "customFields": {
+      "sss": "7",
+      "qwer": "2",
+      "roistat": "683178",
+      "additionally": 1
+    },
+    "uploadedToExternalStoreSystem": false
+  }
+]
